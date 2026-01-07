@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="accent_color">#FF4081</color>
+    
+    <!-- Keyboard Colors -->
+    <color name="keyboard_background">#F0F0F0</color>
+    <color name="key_normal">#FFFFFF</color>
+    <color name="key_pressed">#E0E0E0</color>
+    <color name="key_text">#212121</color>
+    <color name="key_border">#BDBDBD</color>
+    <color name="special_key">#3F51B5</color>
+    <color name="special_key_text">#FFFFFF</color>
+    
+    <!-- Activity Colors -->
+    <color name="background">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="button_background">#3F51B5</color>
+    <color name="button_text">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+</resources>

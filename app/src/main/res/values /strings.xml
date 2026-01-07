@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Simple Keyboard</string>
+    
+    <!-- Keyboard Service -->
+    <string name="keyboard_service_label">Simple Keyboard</string>
+    
+    <!-- Enable Keyboard Activity -->
+    <string name="enable_keyboard_title">Enable Keyboard</string>
+    <string name="enable_keyboard_message">Please enable Simple Keyboard in settings</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="select_keyboard">Select \"Simple Keyboard\"</string>
+    <string name="enable_switch">Enable Switch</string>
+    <string name="keyboard_ready">Keyboard is ready to use!</string>
+    
+    <!-- Key Labels -->
+    <string name="key_label_space">SPACE</string>
+    <string name="key_label_done">DONE</string>
+    <string name="key_label_shift">⇧</string>
+    <string name="key_label_backspace">⌫</string>
+    <string name="key_label_symbols">123</string>
+    <string name="key_label_abc">ABC</string>
+    <string name="key_label_enter">↵</string>
+    
+    <!-- Instructions -->
+    <string name="instructions">1. Click \"Go to Settings\"\n2. Click \"Current Keyboard\"\n3. Enable \"Simple Keyboard\"\n4. Switch back and start typing!</string>
+</resources>
